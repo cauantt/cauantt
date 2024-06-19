@@ -3,9 +3,9 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando {seu curso} no {faculdade}.
-- 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.
-- 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
+- 🎓 Estudando Ciência da Computação na UFCAT.
+- 💼 Trabalhando como Full-stack no Portal Catalão.
+- 🌱 Aprendendo mais sobre Desenvolvimento Web.
 
 ## Minhas Skills
 
