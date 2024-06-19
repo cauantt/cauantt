@@ -18,11 +18,6 @@
 ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 
 
-**Utilidades**
-
-![N8n]
-![Typebot]
-
 **DevOps**
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
