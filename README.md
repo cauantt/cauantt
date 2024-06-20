@@ -1,15 +1,14 @@
 
+## About Me
 
-## Sobre mim
+- 🤔 Exploring new technologies and developing software solutions.
+- 🎓 Studying Computer Science at UFCAT.
+- 💼 Working as a Full-stack Developer at Portal Catalão.
+- 🌱 Learning more about Web Development.
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando Ciência da Computação na UFCAT.
-- 💼 Trabalhando como Full-stack no Portal Catalão.
-- 🌱 Aprendendo mais sobre Desenvolvimento Web.
+## My Skills
 
-## Minhas Skills
-
-**Aplicações e dados**
+**Applications and Data**
 
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -29,7 +28,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
-**Automação**
+**Automation**
 
 ![Portainer](https://img.shields.io/badge/-Portainer-333333?style=flat&logo=portainer&logoColor=white)
 ![n8n](https://img.shields.io/badge/-n8n-333333?style=flat&logo=n8n)
@@ -38,7 +37,7 @@
 
 
 
-**Ferramentas de desenvolvimento**
+**Development Tools**
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
