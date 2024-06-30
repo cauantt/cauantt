@@ -4,7 +4,7 @@
 - 🤔 Exploring new technologies and developing software solutions.
 - 🎓 Studying Computer Science at UFCAT.
 - 💼 Working as a Full-stack Developer at Portal Catalão.
-- 🌱 Learning more about Web Development.
+- 🌱 Learning more about WeDevelopment.
 
 ## My Skills
 
