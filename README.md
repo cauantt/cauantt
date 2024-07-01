@@ -6,6 +6,8 @@
 - 💼 Working as a Full-stack Developer at Portal Catalão.
 - 🌱 Learning more about WebDevelopment.
 
+https://cauantt.github.io/cauanetto/  <-  #MY RESUME#
+
 ## My Skills
 
 **Applications and Data**
