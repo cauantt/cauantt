@@ -1,9 +1,12 @@
 
 ## Sobre mim
 
-🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-🎓 Estudando Ciência da Computação na UFCAT.
-💼 Trabalhando como Desenvolvedor Full-stack no Portal Catalão.
+🤔 Explorando novas tecnologias e desenvolvendo soluções de software
+
+🎓 Estudando Ciência da Computação na UFCAT
+
+💼 Trabalhando como Desenvolvedor Full-stack no Portal Catalão
+
 🌱 Aprendendo mais sobre Desenvolvimento Web.
 
 ## https://cauantt.github.io/cauanetto/  <-  Meu resumo
